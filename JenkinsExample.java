@@ -6,8 +6,7 @@ public class JenkinsExample {
 		System.out.println(" Welcome to the Jenkins");
 		System.out.println("Ayesha ");
 		System.out.println("Rafeek Haroon");
-			System.out.println("Muhammed Samhaan");
-		System.out.println("Abdur rahman");
+		
 	
 
 	}
